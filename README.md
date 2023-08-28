@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 - 🌱 I’m currently learning/trying to figure out how to apply Git workflows to the work I do
+
 <!--
 **Guiding8855/Guiding8855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
